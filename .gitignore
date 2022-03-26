@@ -23,3 +23,5 @@ output
 
 # Build
 /src/index.prod.js
+
+.direnv
